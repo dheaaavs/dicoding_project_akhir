@@ -1,0 +1,2 @@
+Link Dashboard Streamlit share : https://dicodingprojectakhir-aqusdie8hnjlx6b3qrxqs7.streamlit.app/
+Link Google Colab : https://colab.research.google.com/drive/1NVv6KUcxH-0IpS0Moo597imXWJrCFn_h?usp=sharing
